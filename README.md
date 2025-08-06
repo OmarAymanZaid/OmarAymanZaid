@@ -11,7 +11,11 @@
 ###
 
 <div align="left">
-  <img src="https://www.svgrepo.com/show/452088/php.svg" height="40" alt="PHP logo"  />
+  <picture>
+    <source media="" srcset="https://www.svgrepo.com/show/452088/php.svg">
+    <img src="https://www.svgrepo.com/show/452088/php.svg" height="40" alt="PHP logo"  />
+  </picture>
+<!--   <img src="https://www.svgrepo.com/show/452088/php.svg" height="40" alt="PHP logo"  /> -->
   <img width="12" />
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40" alt="Laravel logo"  />
   <img width="12" />
