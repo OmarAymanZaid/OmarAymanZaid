@@ -15,7 +15,7 @@
     <source media="" srcset="https://www.svgrepo.com/show/452088/php.svg">
     <img src="https://www.svgrepo.com/show/452088/php.svg" height="40" alt="PHP logo"  />
   </picture>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <picture>
     <source media="" srcset="https://www.svgrepo.com/show/353985/laravel.svg">
     <img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40" alt="Laravel logo"  />
