@@ -11,39 +11,21 @@
 ###
 
 <div align="left">
-  <picture>
-    <source media="" srcset="https://www.svgrepo.com/show/452088/php.svg">
-    <img src="https://www.svgrepo.com/show/452088/php.svg" height="40" alt="PHP logo"  />
-  </picture>
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <picture>
-    <source media="" srcset="https://www.svgrepo.com/show/353985/laravel.svg">
-    <img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40" alt="Laravel logo"  />
-  </picture>
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <picture>
-    <source media="" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  </picture>
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <picture>
-    <source media="" srcset="https://www.svgrepo.com/show/374016/python.svg">
-    <img src="https://www.svgrepo.com/show/374016/python.svg" height="40" alt="python logo"  />
-  </picture>
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <picture>
-    <source media="" srcset="https://www.svgrepo.com/show/373528/cpp3.svg">
-    <img src="https://www.svgrepo.com/show/373528/cpp3.svg" height="40" alt="CPP logo"  />
-  </picture>
-  <span>&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/OmarAymanZaid/OmarAymanZaid/output/snake.svg" alt="Snake animation" />
 
 ###
