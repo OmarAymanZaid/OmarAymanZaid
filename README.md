@@ -15,15 +15,26 @@
     <source media="" srcset="https://www.svgrepo.com/show/452088/php.svg">
     <img src="https://www.svgrepo.com/show/452088/php.svg" height="40" alt="PHP logo"  />
   </picture>
-<!--   <img src="https://www.svgrepo.com/show/452088/php.svg" height="40" alt="PHP logo"  /> -->
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40" alt="Laravel logo"  />
+  <picture>
+    <source media="" srcset="https://www.svgrepo.com/show/353985/laravel.svg">
+    <img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40" alt="Laravel logo"  />
+  </picture>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <picture>
+    <source media="" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  </picture>
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/374016/python.svg" height="40" alt="python logo"  />
+  <picture>
+    <source media="" srcset="https://www.svgrepo.com/show/374016/python.svg">
+    <img src="https://www.svgrepo.com/show/374016/python.svg" height="40" alt="python logo"  />
+  </picture>
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/373528/cpp3.svg" height="40" alt="CPP logo"  />
+  <picture>
+    <source media="" srcset="https://www.svgrepo.com/show/373528/cpp3.svg">
+    <img src="https://www.svgrepo.com/show/373528/cpp3.svg" height="40" alt="CPP logo"  />
+  </picture>
   <img width="12" />
 </div>
 
