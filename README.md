@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="  https://www.svgrepo.com/show/452088/php.svg" height="40" alt="PHP logo"  />
+  <img src="https://www.svgrepo.com/show/452088/php.svg" height="40" alt="PHP logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40" alt="Laravel logo"  />
   <img width="12" />
@@ -22,4 +22,5 @@
   <img src="https://www.svgrepo.com/show/373528/cpp3.svg" height="40" alt="CPP logo"  />
   <img width="12" />
 </div>
+
 ###
