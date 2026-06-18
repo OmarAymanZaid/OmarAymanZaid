@@ -17,7 +17,13 @@
 
 ###
 
-<p align="left">I am a computer science devotee, enchanted by the and wonder of all fileds of computer science, driven by a passion for AI and a dream of becoming a researcher. Through a combination of academic study and self-learning, I’ve gained hands-on experience in various areas of computer science. I specialize in backend development, especially with PHP and Laravel, and I’m also familiar with frontend technologies such as HTML, CSS, and JavaScript. Additionally, I have introductory knowledge in AI and data science, which I continue to explore with great curiosity.</p>
+<p align="left">
+  A computer science devotee, enchanted by the wonder of all fields of computer science, driven by a passion for AI and a dream of becoming a researcher.
+</p>
+
+<p>
+  I approach computer science as a generalist who is captivated by making every piece of a system align coherently with the bigger picture and who is driven by a blend of academic study and dedicated self-learning. This mindset allows me to connect practical backend development with AI work. My primary focus is on Natural Language Processing (NLP), supported by a foundational understanding of Computer Vision and classical AI techniques. Ultimately, I want to bridge the gap between engineering functional software and pursuing meaningful research.
+</p>
 
 ###
 
