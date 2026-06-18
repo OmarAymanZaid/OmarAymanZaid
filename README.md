@@ -37,11 +37,11 @@
   
 </div>
 
-###
+<!-- Tech Stack //////////////////////////////////////////////////////////////////////////////////////////// -->
 
-<h2 align="left">I code with</h2>
+<br>
 
-###
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
