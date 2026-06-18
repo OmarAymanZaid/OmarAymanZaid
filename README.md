@@ -1,8 +1,8 @@
 <!-- Header //////////////////////////////////////////////////////////////////////////////////////////// -->
 
-<hr>
-
 <h1 align="left">Hello, world 👋</h1>
+
+<hr>
 
 <p align="center">
   <img src="assets/header.svg" alt="Omar Zaid Header" width="100%">
