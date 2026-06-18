@@ -1,6 +1,6 @@
-<h1 align="left">Hello, world 👋</h1>
+<!-- Header //////////////////////////////////////////////////////////////////////////////////////////// -->
 
-​<!-- Header //////////////////////////////////////////////////////////////////////////////////////////// -->
+<h1 align="left">Hello, world 👋</h1>
 
 <p align="center">
   <img src="assets/header.svg" alt="Omar Zaid Header" width="100%">
@@ -15,7 +15,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=1000&color=3C807AFF&width=600&height=50&lines=AI+Engineer+%26+Computer+Science+Devotee;Enchanted+by+the+wonder+of+software;Driven+by+academic+study+%26+self-learning;Captivated+by+system+alignment+%26+the+big+picture;Bridging+the+gap+between+software+%26+research)](https://git.io/typing-svg)
 
-###
+<!-- About //////////////////////////////////////////////////////////////////////////////////////////// -->
+
+<h2 align="left">About me</h2>
 
 <p align="left">
   A computer science devotee, enchanted by the wonder of all fields of computer science, driven by a passion for AI and a dream of becoming a researcher.
