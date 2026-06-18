@@ -100,8 +100,12 @@
 
 ## 🌐 Connect with me
 
-<div>
+<div align="center">
+
+  <br>
   
+  **Open to new opportunities and technical collaborations!**
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-ayman-9b50b9357)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaraymanzaid1122@gmail.com)
   
