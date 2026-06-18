@@ -184,6 +184,8 @@
 
 ## 📈 GitHub Statistics
 
+<br>
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <!-- First Row: Main Stats & Streak Tracker -->
   <tr>
@@ -200,17 +202,22 @@
   <!-- Space between rows -->
   <tr><td style="border: none; height: 15px;"></td><td style="border: none;"></td></tr>
 
-  <!-- Second Row: Top Languages & Profile Views Footer -->
+  <!-- Second Row: Top Languages spanning the left side -->
   <tr>
     <td width="50%" valign="top" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omaraymanzaid&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="100%" />
     </td>
-    <td width="50%" valign="bottom" style="border: none; padding-left: 10px; padding-bottom: 5px;">
-      <p><strong>Visitor Analytics:</strong></p>
-      <img src="https://komarev.com/ghpvc/?username=omaraymanzaid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    </td>
+    <td width="50%" style="border: none;"></td>
   </tr>
 </table>
+
+<br/>
+
+<!-- Footer: Visitor Analytics -->
+<div align="left">
+  <p><strong>Visitor Analytics:</strong></p>
+  <img src="https://komarev.com/ghpvc/?username=omaraymanzaid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</div>
 
 <br/>
 
