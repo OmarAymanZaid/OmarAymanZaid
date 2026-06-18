@@ -122,7 +122,7 @@
 **Stack:** Python, Spark, Kafka, NiFi
 <br/>
 
-[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=flat-square&logo=github)](https://github.com/OmarAymanZaid)
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=for-the-badge&logo=github)](https://github.com/OmarAymanZaid)
 
 </td>
 </tr>
@@ -136,7 +136,7 @@
 **Stack:** Python, AWS, Docker, FastAPI
 <br/>
 
-[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=flat-square&logo=github)](https://github.com/OmarAymanZaid)
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=for-the-badge&logo=github)](https://github.com/OmarAymanZaid)
 
 </td>
 <td width="50%" valign="top">
@@ -147,7 +147,7 @@
 **Stack:** Python, NumPy
 <br/>
 
-[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=flat-square&logo=github)](https://github.com/OmarAymanZaid)
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=for-the-badge&logo=github)](https://github.com/OmarAymanZaid)
 
 </td>
 </tr>
@@ -161,7 +161,7 @@
 **Stack:** Python, NLTK, PyTorch, pandas
 <br/>
 
-[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=flat-square&logo=github)](https://github.com/OmarAymanZaid)
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=for-the-badge&logo=github)](https://github.com/OmarAymanZaid)
 
 </td>
 <td width="50%" valign="top">
@@ -172,7 +172,7 @@
 **Stack:** Python, OpenCV, PyTorch
 <br/>
 
-[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=flat-square&logo=github)](https://github.com/OmarAymanZaid)
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=for-the-badge&logo=github)](https://github.com/OmarAymanZaid)
 
 </td>
 </tr>
