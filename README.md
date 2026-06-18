@@ -178,6 +178,17 @@
 </tr>
 </table>
 
+<!-- GitHub Statistics //////////////////////////////////////////////////////////////////////////////////////////// -->
+
+<br>
+
+## 📈 GitHub Statistics
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaraymanzaid&show_icons=true&locale=en&layout=compact" alt="omaraymanzaid" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omaraymanzaid&show_icons=true&locale=en" alt="omaraymanzaid" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omaraymanzaid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="omaraymanzaid" /> </p>
 
 <!-- Connect //////////////////////////////////////////////////////////////////////////////////////////// -->
 
