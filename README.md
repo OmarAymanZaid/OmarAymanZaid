@@ -14,7 +14,7 @@
 
 <!-- About //////////////////////////////////////////////////////////////////////////////////////////// -->
 
-<h2 align="left">About me</h2>
+## ✨ About me
 
 <p align="left">
   A computer science devotee, enchanted by the wonder of all fields of computer science, driven by a passion for AI and a dream of becoming a researcher.
@@ -28,7 +28,7 @@
 
 ## 🌐 Connect with me
 
-<div align="center">
+<div>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-ayman-9b50b9357)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaraymanzaid1122@gmail.com)
