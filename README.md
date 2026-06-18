@@ -6,6 +6,8 @@
   <img src="assets/header.svg" alt="Omar Zaid Header" width="100%">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=4fa8a0&width=600&height=50&lines=AI+Engineer+%26+Computer+Science+Devotee;Enchanted+by+the+wonder+of+intelligent+systems;Driven+by+academic+study+%26+self-learning;Captivated+by+system+alignment+%26+the+big+picture;Bridging+the+gap+between+software+%26+research)](https://git.io/typing-svg)
+
 ###
 
 <p align="left">I am a computer science devotee, enchanted by the and wonder of all fileds of computer science, driven by a passion for AI and a dream of becoming a researcher. Through a combination of academic study and self-learning, I’ve gained hands-on experience in various areas of computer science. I specialize in backend development, especially with PHP and Laravel, and I’m also familiar with frontend technologies such as HTML, CSS, and JavaScript. Additionally, I have introductory knowledge in AI and data science, which I continue to explore with great curiosity.</p>
