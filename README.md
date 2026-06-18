@@ -32,7 +32,7 @@
 
 <div>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-ayman-9b50b9357)
+  ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaraymanzaid1122@gmail.com)
   
 </div>
