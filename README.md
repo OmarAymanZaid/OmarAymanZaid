@@ -184,13 +184,36 @@
 
 ## 📈 GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaraymanzaid&show_icons=true&locale=en&layout=compact" alt="omaraymanzaid" /></p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <!-- First Row: Main Stats & Streak Tracker -->
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=omaraymanzaid&show_icons=true&locale=en" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
+      <a href="https://git.io/streak-stats" target="_blank">
+        <img src="https://github-readme-streak-stats-puce-phi.vercel.app/?user=OmarAymanZaid&theme=transparent" alt="GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+  
+  <!-- Space between rows -->
+  <tr><td style="border: none; height: 15px;"></td><td style="border: none;"></td></tr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omaraymanzaid&show_icons=true&locale=en" alt="omaraymanzaid" /></p>
+  <!-- Second Row: Top Languages & Profile Views Footer -->
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omaraymanzaid&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="100%" />
+    </td>
+    <td width="50%" valign="bottom" style="border: none; padding-left: 10px; padding-bottom: 5px;">
+      <p><strong>Visitor Analytics:</strong></p>
+      <img src="https://komarev.com/ghpvc/?username=omaraymanzaid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+    </td>
+  </tr>
+</table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omaraymanzaid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="omaraymanzaid" /> </p>
+<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats-puce-phi.vercel.app/?user=OmarAymanZaid&theme=transparent)](https://git.io/streak-stats)
 
 <!-- Connect //////////////////////////////////////////////////////////////////////////////////////////// -->
 
