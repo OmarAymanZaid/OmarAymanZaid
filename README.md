@@ -93,4 +93,16 @@
 
 <!-- Snake Game //////////////////////////////////////////////////////////////////////////////////////////// -->
 
-![snake gif](https://github.com/OmarAymanZaidE/OmarAymanZaid/blob/output/github-snake-dark.svg)
+<br>
+
+## ⚡Activity Graph
+
+<div align="left" style="margin-left: 40px; margin-top: 20px; margin-bottom: 20px;">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; background-color: transparent;">
+        <img src="https://raw.githubusercontent.com/OmarAymanZaid/OmarAymanZaid/output/github-snake.svg" alt="GitHub Contribution Snake Animation" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
