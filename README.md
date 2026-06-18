@@ -2,19 +2,9 @@
 
 ​<!-- Header //////////////////////////////////////////////////////////////////////////////////////////// -->
 
-
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-<div class="green">
-    Markdown css styles
-</div>
-
+<p align="center">
+  <img src="assets/header.svg" alt="Omar Zaid Header" width="100%">
+</p>
 
 ###
 
