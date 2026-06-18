@@ -91,4 +91,6 @@
   
 </div>
 
-###
+<!-- Snake Game //////////////////////////////////////////////////////////////////////////////////////////// -->
+
+![snake gif](https://github.com/OmarAymanZaidE/OmarAymanZaid/blob/output/github-snake-dark.svg)
