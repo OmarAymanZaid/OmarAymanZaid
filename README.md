@@ -94,6 +94,91 @@
   </table>
 </div>
 
+
+<!-- Featured Projects //////////////////////////////////////////////////////////////////////////////////// -->
+
+<br>
+
+## 🚀 Featured Projects
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Connect 6 AI Engine
+*A Python-based Connect 6 game engine built from scratch to explore classical AI techniques, implementing adversarial search algorithms and custom heuristics.*
+
+**Stack:** Python
+<br/>
+
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=for-the-badge&logo=github)](https://github.com/OmarAymanZaid)
+
+</td>
+<td width="50%" valign="top">
+
+### Web Clickstream Analytics
+*A high-throughput streaming pipeline built with Apache NiFi, Kafka, and Spark Streaming to process real-time user click frequencies into PostgreSQL.*
+
+**Stack:** Python, Spark, Kafka, NiFi
+<br/>
+
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=flat-square&logo=github)](https://github.com/OmarAymanZaid)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Cloud-Integrated Face Mask Detection
+*A containerized computer vision pipeline deployed via Docker on AWS EC2, utilizing decoupled S3 asset tracking and DynamoDB state management.*
+
+**Stack:** Python, AWS, Docker, FastAPI
+<br/>
+
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=flat-square&logo=github)](https://github.com/OmarAymanZaid)
+
+</td>
+<td width="50%" valign="top">
+
+### Co-Evolutionary Recommendation Engine
+*An adaptive recommendation architecture utilizing co-evolutionary genetic algorithms and vector text embeddings to optimize personalized matching matrices.*
+
+**Stack:** Python, NumPy
+<br/>
+
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=flat-square&logo=github)](https://github.com/OmarAymanZaid)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Smart Review Analyzer
+*An end-to-end NLP system engineered for automated text preprocessing and supervised multi-tier sentiment classification.*
+
+**Stack:** Python, NLTK, PyTorch, pandas
+<br/>
+
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=flat-square&logo=github)](https://github.com/OmarAymanZaid)
+
+</td>
+<td width="50%" valign="top">
+
+### Industrial Defect Detection
+*An automated visual inspection pipeline leveraging optimized computer vision and spatial filtering algorithms to identify manufacturing anomalies on the edge.*
+
+**Stack:** Python, OpenCV, PyTorch
+<br/>
+
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=flat-square&logo=github)](https://github.com/OmarAymanZaid)
+
+</td>
+</tr>
+</table>
+
+
 <!-- Connect //////////////////////////////////////////////////////////////////////////////////////////// -->
 
 <br>
