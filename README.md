@@ -190,6 +190,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaraymanzaid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="omaraymanzaid" /> </p>
 
+[![GitHub Streak](https://github-readme-streak-stats-puce-phi.vercel.app/?user=OmarAymanZaid&theme=transparent)](https://git.io/streak-stats)
+
 <!-- Connect //////////////////////////////////////////////////////////////////////////////////////////// -->
 
 <br>
