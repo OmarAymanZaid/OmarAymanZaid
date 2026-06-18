@@ -32,7 +32,7 @@
 
 <div>
   
-  ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=28)
+  ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=48)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaraymanzaid1122@gmail.com)
   
 </div>
