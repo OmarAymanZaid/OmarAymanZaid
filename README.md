@@ -8,14 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=1000&color=3C807AFF&width=600&height=50&lines=AI+Engineer+%26+Computer+Science+Devotee;Enchanted+by+the+wonder+of+software;Driven+by+academic+study+%26+self-learning;Captivated+by+system+alignment+%26+the+big+picture;Bridging+the+gap+between+software+%26+research)](https://git.io/typing-svg)
 
-<br>
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-ayman-9b50b9357)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaraymanzaid1122@gmail.com)
-  
-</div>
+<hr>
 
 <!-- About //////////////////////////////////////////////////////////////////////////////////////////// -->
 
