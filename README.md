@@ -2,34 +2,38 @@
 
 ​<!-- Header //////////////////////////////////////////////////////////////////////////////////////////// -->
 
-<div align="center" style="
-    background: linear-gradient(135deg, #a3e4db 0%, #7ec8c1 100%);
-    padding: 50px 20px 70px 20px;
-    border-radius: 0 0 50% 50% / 0 0 12% 12%;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    color: #2d3748;
-    box-shadow: inset 0 -10px 20px rgba(255,255,255,0.2);
-">
-    <h1 style="
-        font-size: 3.5rem;
-        font-weight: 800;
-        margin: 0;
-        letter-spacing: -1px;
-        line-height: 1;
-        color: #24292e;
-    ">
-        capsule render
-    </h1>
-    <p style="
-        font-size: 1.2rem;
-        font-weight: 500;
-        margin: 10px 0 0 120px;
-        color: #3a4750;
-        opacity: 0.9;
-    ">
-        Decorate GitHub Profile or any Repo like me!
-    </p>
-</div>
+<picture>
+  <svg viewBox="0 0 800 200" width="100%" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="tealGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#a3e4db" />
+        <stop offset="100%" stop-color="#7ec8c1" />
+      </linearGradient>
+    </defs>
+    
+    <path d="M 0,0 L 800,0 L 800,160 Q 400,200 0,160 Z" fill="url(#tealGrad)" />
+    
+    <text x="400" y="95" 
+          text-anchor="middle" 
+          fill="#24292e" 
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+          font-size="54" 
+          font-weight="800" 
+          letter-spacing="-1.5">
+      capsule render
+    </text>
+    
+    <text x="440" y="130" 
+          text-anchor="start" 
+          fill="#3a4750" 
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+          font-size="18" 
+          font-weight="500" 
+          opacity="0.9">
+      Decorate GitHub Profile or any Repo like me!
+    </text>
+  </svg>
+</picture>
 
 ###
 
