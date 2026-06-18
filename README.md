@@ -29,6 +29,17 @@
   I approach computer science as a generalist who is captivated by making every piece of a system align coherently with the bigger picture and who is driven by a blend of academic study and dedicated self-learning. This mindset allows me to connect practical backend development with AI work. My primary focus is on Natural Language Processing (NLP), supported by a foundational understanding of Computer Vision and classical AI techniques. Ultimately, I want to bridge the gap between engineering functional software and pursuing meaningful research.
 </p>
 
+<!-- Connect //////////////////////////////////////////////////////////////////////////////////////////// -->
+
+## 🌐 Connect with me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-ayman-9b50b9357)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaraymanzaid1122@gmail.com)
+  
+</div>
+
 ###
 
 <h2 align="left">I code with</h2>
