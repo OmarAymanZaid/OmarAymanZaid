@@ -10,28 +10,9 @@
         <stop offset="100%" stop-color="#7ec8c1" />
       </linearGradient>
     </defs>
-    
     <path d="M 0,0 L 800,0 L 800,160 Q 400,200 0,160 Z" fill="url(#tealGrad)" />
-    
-    <text x="400" y="95" 
-          text-anchor="middle" 
-          fill="#24292e" 
-          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
-          font-size="54" 
-          font-weight="800" 
-          letter-spacing="-1.5">
-      capsule render
-    </text>
-    
-    <text x="440" y="130" 
-          text-anchor="start" 
-          fill="#3a4750" 
-          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
-          font-size="18" 
-          font-weight="500" 
-          opacity="0.9">
-      Decorate GitHub Profile or any Repo like me!
-    </text>
+    <text x="400" y="100" text-anchor="middle" fill="#24292e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5">capsule render</text>
+    <text x="440" y="135" text-anchor="start" fill="#3a4750" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="500" opacity="0.9">Decorate GitHub Profile or any Repo like me!</text>
   </svg>
 </picture>
 
