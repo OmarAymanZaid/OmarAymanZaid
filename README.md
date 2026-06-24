@@ -147,7 +147,7 @@
 **Stack:** Python, NumPy
 <br/>
 
-[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=for-the-badge&logo=github)](https://github.com/OmarAymanZaid)
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=for-the-badge&logo=github)](https://github.com/OmarAymanZaid/Adaptive-Recommendation-Engine-EA)
 
 </td>
 </tr>
