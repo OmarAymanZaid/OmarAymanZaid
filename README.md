@@ -111,7 +111,7 @@
 **Stack:** Python
 <br/>
 
-[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=for-the-badge&logo=github)](https://github.com/OmarAymanZaid)
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=for-the-badge&logo=github)](https://github.com/OmarAymanZaid/Connect6)
 
 </td>
 <td width="50%" valign="top">
