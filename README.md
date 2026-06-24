@@ -122,7 +122,7 @@
 **Stack:** Python, Spark, Kafka, NiFi
 <br/>
 
-[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=for-the-badge&logo=github)](https://github.com/OmarAymanZaid)
+[![Codebase](https://img.shields.io/badge/Explore_Source-24292e?style=for-the-badge&logo=github)](https://github.com/OmarAymanZaid/clickestream_project_BigData)
 
 </td>
 </tr>
