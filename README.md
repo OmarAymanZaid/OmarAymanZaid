@@ -58,6 +58,7 @@
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white)
   
   ### **Data Engineering & Databases**
   
