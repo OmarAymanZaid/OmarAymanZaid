@@ -191,7 +191,7 @@
   <!-- First Row: Main Stats & Streak Tracker -->
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=omaraymanzaid&show_icons=true&locale=en" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-taupe-three-40.vercel.app/api?username=omaraymanzaid&show_icons=true&locale=en" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" valign="top" style="border: none; padding-left: 10px;">
       <a href="https://git.io/streak-stats" target="_blank">
