@@ -206,7 +206,7 @@
   <!-- Second Row: Top Languages spanning the left side -->
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omaraymanzaid&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats-taupe-three-40.vercel.app/api/top-langs?username=omaraymanzaid&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="100%" />
     </td>
     <td width="50%" style="border: none;"></td>
   </tr>
